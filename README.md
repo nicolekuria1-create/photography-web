@@ -21,22 +21,22 @@ It showcases favorite photos, includes a biography section, attaches a design pl
 
 ## Project Setup Instructions
 1. Clone the repository:
-   - `git clone https://github.com/<your-username>/captured-forever.git`
+   - `git clone https://github.com/nicolekuria1-create/photography-web.git`
 2. Open the project folder in VS Code.
 3. Launch `index.html` using Live Server or open it directly in your browser.
 
 ## Live Site (GitHub Pages)
 Add your deployed link here after publishing:
-- `https://<your-username>.github.io/captured-forever/`
+- `https://nicolekuria1-create.github.io/photography-web/`
 
 ## GitHub Repository Setup
-1. Create a new repository named `captured-forever`.
+1. Create a new repository named `photography-web`.
 2. Connect local project to GitHub:
    - `git init`
    - `git add .`
    - `git commit -m "Initial project structure"`
    - `git branch -M main`
-   - `git remote add origin https://github.com/<your-username>/captured-forever.git`
+   - `git remote add origin https://github.com/nicolekuria1-create/photography-web.git`
    - `git push -u origin main`
 
 ## Regular Commit Checklist (Target: 20+ commits)
