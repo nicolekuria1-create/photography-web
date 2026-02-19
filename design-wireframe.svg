@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Photography website wireframe">
+  <defs>
+    <style>
+      .bg { fill: #0f172a; }
+      .panel { fill: #111827; stroke: #334155; stroke-width: 2; rx: 16; }
+      .line { stroke: #94a3b8; stroke-width: 2; }
+      .title { fill: #f8fafc; font-family: Arial, sans-serif; font-size: 28px; font-weight: 700; }
+      .label { fill: #cbd5e1; font-family: Arial, sans-serif; font-size: 16px; }
+      .small { fill: #94a3b8; font-family: Arial, sans-serif; font-size: 14px; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="900"/>
+
+  <text class="title" x="50" y="45">Captured Forever — Wireframe Plan</text>
+
+  <rect class="panel" x="50" y="70" width="1100" height="130"/>
+  <text class="label" x="80" y="110">Header / Hero</text>
+  <line class="line" x1="80" y1="125" x2="350" y2="125"/>
+  <text class="small" x="80" y="150">Title · Quote · Intro paragraph · Navigation</text>
+
+  <rect class="panel" x="50" y="220" width="700" height="280"/>
+  <text class="label" x="80" y="255">Favorite Photos Section</text>
+  <text class="small" x="80" y="285">Ordered list + links + image previews</text>
+  <rect class="panel" x="80" y="305" width="190" height="160"/>
+  <rect class="panel" x="290" y="305" width="190" height="160"/>
+  <rect class="panel" x="500" y="305" width="220" height="160"/>
+
+  <rect class="panel" x="770" y="220" width="380" height="280"/>
+  <text class="label" x="800" y="255">Biography Section</text>
+  <text class="small" x="800" y="285">Website bio + photographer image</text>
+  <rect class="panel" x="800" y="305" width="320" height="160"/>
+
+  <rect class="panel" x="50" y="530" width="1100" height="170"/>
+  <text class="label" x="80" y="565">Design Review Section</text>
+  <text class="small" x="80" y="595">Attached wireframe image and design notes link</text>
+
+  <rect class="panel" x="50" y="720" width="780" height="130"/>
+  <text class="label" x="80" y="755">Contact Form</text>
+  <text class="small" x="80" y="782">Name · Email · Message · Submit</text>
+
+  <rect class="panel" x="850" y="720" width="300" height="130"/>
+  <text class="label" x="880" y="755">Footer</text>
+  <text class="small" x="880" y="782">Copyright + back to top</text>
+</svg>
